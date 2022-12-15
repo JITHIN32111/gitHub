@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-something
-=======
-branch
->>>>>>> 8124770 (branch)
+branch master
